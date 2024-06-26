@@ -1,9 +1,18 @@
 # Getting Started with the TalkTech App
+TalkTech is a Single-Page-Application using React/Redux, RXDB In-Memory DB, Emotion/Styled and MUI/Material to represent a near-real business web application.
+The purpose for creating TalkTech is to evaluate the technical use-case viability of using CoPilot and GTP4 as accelerators for GenAI generated BDD tests with Playwright.
+
+The results of the evaluation were varied, however overall the GenAI Playwright tests where mostly structurally useful, and roughly 40%-50% of the test code was relevant requring minimal to moderate modifications.
+
+This is a Screencast of the TalkTech App tested via GenAI assisted BDD Playwright tests.
+
+[![GenAI BDD](https://geofoodtruck-test-report.s3.amazonaws.com/teck-talk-uat.gif)]
+
 
 ### Pre-Requisites
 1. Install Node v18 for your operating system
 
-   [Node v18 download page](https://nodejs.org/download/release/v18.19.1/)
+   [Node v20 download page](https://nodejs.org/en/download/package-manager)
 
    To verify that Node v18 has been correctly installed in your system.
 
@@ -12,7 +21,7 @@
    ```
    node --version
    ```
-   This should display `v18.##.#`
+   This should display `v20.##.#`
 
 2. Install the VSCode
 
