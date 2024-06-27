@@ -1,3 +1,5 @@
+![GenAI BDD](https://geofoodtruck-test-report.s3.amazonaws.com/teck-talk.gif)
+
 # Getting Started with the TalkTech App
 TalkTech is a Single-Page-Application using React/Redux, RXDB In-Memory DB, Emotion/Styled and MUI/Material to represent a near-real business web application.
 The purpose for creating TalkTech is to evaluate the technical use-case viability of using CoPilot and GTP4 as accelerators for GenAI generated BDD tests with Playwright.
