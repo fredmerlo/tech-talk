@@ -52,7 +52,7 @@ This is a Screencast of the TalkTech App tested via GenAI assisted BDD Playwrigh
 2. On VSCode select the Menu `Terminal -> New Terminal`
 3. In the Terminal panel run the following command:
    ```
-   npm start
+   npm run start
    ```
    Once npm has initialized, you can open the [TalkTech App](http://localhost:3000)
    
