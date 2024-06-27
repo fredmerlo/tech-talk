@@ -1,5 +1,5 @@
 
-|![GenAI BDD](https://geofoodtruck-test-report.s3.amazonaws.com/teck-talk.gif)|
+| ![GenAI BDD](https://geofoodtruck-test-report.s3.amazonaws.com/teck-talk.gif) |
 |-|
 
 # Getting Started with the TalkTech App
@@ -10,7 +10,7 @@ The results of the evaluation were varied, however overall the GenAI Playwright 
 
 This is a Screencast of the TalkTech App tested via GenAI assisted BDD Playwright tests.
 
-|![GenAI BDD](https://geofoodtruck-test-report.s3.amazonaws.com/teck-talk-uat.gif)|
+| ![GenAI BDD](https://geofoodtruck-test-report.s3.amazonaws.com/teck-talk-uat.gif) |
 |-|
 
 
