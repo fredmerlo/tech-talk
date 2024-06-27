@@ -1,4 +1,6 @@
-![GenAI BDD](https://geofoodtruck-test-report.s3.amazonaws.com/teck-talk.gif)
+
+|![GenAI BDD](https://geofoodtruck-test-report.s3.amazonaws.com/teck-talk.gif)|
+|-|
 
 # Getting Started with the TalkTech App
 TalkTech is a Single-Page-Application using React/Redux, RXDB In-Memory DB, Emotion/Styled and MUI/Material to represent a near-real business web application.
@@ -8,7 +10,8 @@ The results of the evaluation were varied, however overall the GenAI Playwright 
 
 This is a Screencast of the TalkTech App tested via GenAI assisted BDD Playwright tests.
 
-![GenAI BDD](https://geofoodtruck-test-report.s3.amazonaws.com/teck-talk-uat.gif)
+|![GenAI BDD](https://geofoodtruck-test-report.s3.amazonaws.com/teck-talk-uat.gif)|
+|-|
 
 
 ### Pre-Requisites
