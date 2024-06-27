@@ -10,11 +10,11 @@ This is a Screencast of the TalkTech App tested via GenAI assisted BDD Playwrigh
 
 
 ### Pre-Requisites
-1. Install Node v18 for your operating system
+1. Install Node v20 for your operating system
 
    [Node v20 download page](https://nodejs.org/en/download/package-manager)
 
-   To verify that Node v18 has been correctly installed in your system.
+   To verify that Node v20 has been correctly installed in your system.
 
    Use a shell terminal, run the following command:
 
@@ -34,6 +34,11 @@ This is a Screencast of the TalkTech App tested via GenAI assisted BDD Playwrigh
    ```
    cd <app-extract-directory>/talktech-app-gpt/
    npm install
+   ```
+4. Initialize Playwright
+
+   ```
+   npm init playwright@latests
    ```
 #
 
